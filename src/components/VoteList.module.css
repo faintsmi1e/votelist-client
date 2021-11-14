@@ -1,0 +1,17 @@
+.VoteList {
+  margin-left: 37px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-self: flex-start;
+}
+.Select.Select {
+  margin-left: 42px;
+  margin-top: 20px;
+  align-self: flex-start;
+  
+}
+.Votes {
+  display: flex;
+  flex-direction: column;
+}
